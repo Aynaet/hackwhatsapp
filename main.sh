@@ -1,12 +1,14 @@
 
 
 
-#Mod by        : RyuXploit
+#Mod by        : Aynaet
 #Tool Unfaedah : Hehe;"v"
 
 clear
-            
-            echo $pur"  ╦ ╦╔╗╔╔═╗╔═╗╔═╗╔╦╗╔═╗╦ ╦   "      
-            echo $pur"  ║ ║║║║╠╣ ╠═╣║╣  ║║╠═╣╠═╣"
-            echo $pur"  ╚═╝╝╚╝╚  ╩ ╩╚═╝═╩╝╩ ╩╩ ╩"
-            echo $mer"  ×××Tool Unfaedah | RyuXploit $st"
+
+            echo $pur"  |        |   ______  |        ________   _________    |\    /|    _______    "
+            echo $pur"  |        |  |        |       |          |         |   | \  / |   |           "
+            echo $pur"  |   /\   |  |______  |       |          |         |   |  \/  |   |_______    "
+            echo $pur"  |  /  \  |  |        |       |          |         |   |      |   |           "
+            echo $pur"  |_/    \_|  |______  |_____  |________  |_________|   |      |   |_______    "     
+            echo $mer"                 WhatsappHack | Aynaet:Git                                     "
