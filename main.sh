@@ -25,4 +25,4 @@ clear
  echo $me "Verification Code loading "
  sleep 7
 
-echo "$red[!]: $RANDOM
+echo $red[!]: $RANDOM
