@@ -1,6 +1,6 @@
 #!/bin/bash
 
-myrandom=$((RANDOM * 27 + 100000))
+myrandom=$((RANDOM + 100000))
 
 
 #Mod by        : Aynaet
