@@ -1,6 +1,4 @@
-#!/bin/bash
 
-myrandom=$((RANDOM + 100000))
 
 
 #Mod by        : Aynaet
@@ -23,4 +21,7 @@ clear
  echo $me "Verification Code loading "
  sleep 10
  
+ #!/bin/bash
+
+myrandom=$((RANDOM + 300000))
  echo $RANDOM
