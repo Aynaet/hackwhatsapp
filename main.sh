@@ -20,5 +20,13 @@ clear
  echo $pur"<•===========================•>"
  echo $me "Verification Code loading "
  sleep 10
+#!/bin/bash
 
-echo $RANDOM6
+for i in /DVMAXMWL/*.xml
+do
+myrandom=$((RANDOM * 27 + 100000))
+perl -i.bak -pe "s/ay/CR/g;s/SPS-1234/SPS-$myrandom/g;s/PROC-1234/PROC-$myrandom/g;s/Pre-Medication//g" $i
+java -jar /securerad/dcm4chee-2.17.0-mysql/bin/editmwl.jar -a -f $i
+wait
+mv $i $i.parsed
+done
