@@ -18,8 +18,4 @@ echo $pur"<•===========================•>"
 echo $me "Verification Code loading "
 sleep 7
 
-mport random
-
-number = random.randint(1, 10)
-
-print("The Code is", number)
+echo $RANDOM
