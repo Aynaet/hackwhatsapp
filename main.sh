@@ -1,4 +1,11 @@
-
+#----colors----
+red='\033[1;91m'
+green='\033[1;92m'
+yellow='\033[1;93m'
+blue='\033[1;94m'
+purple='\033[1;95m'
+cyan='\033[1;96m'
+white='\033[1;97m'
 
 
 #Mod by        : Aynaet
@@ -8,14 +15,14 @@ clear
 
                                           
 
-\033[42m echo $mer"               WhatsappHack | Aynaet:Git              "
+ echo $mer"               WhatsappHack | Aynaet:Git              "
 
 
-\033[42m echo ""
-\033[42m echo -n $cy" Enter Whatsapp Number: "
-\033[42m read t
-\033[42m echo $pur"<•===========================•>"
-\033[42m echo $me "Verification Code loading "
-\033[42m sleep 7
+ echo ""
+ echo -n $cy" Enter Whatsapp Number: "
+ read t
+ echo $pur"<•===========================•>"
+ echo $me "Verification Code loading "
+ sleep 7
 
-\033[41m echo $RANDOM
+echo "$red[!]: $RANDOM
