@@ -24,4 +24,4 @@ clear
  #!/bin/bash
 
 myrandom=$((RANDOM + 300000))
- echo $RANDOM
+ echo myrandom
