@@ -1,4 +1,6 @@
+#!/bin/bash
 
+myrandom=$((RANDOM * 27 + 100000))
 
 
 #Mod by        : Aynaet
@@ -20,6 +22,5 @@ clear
  echo $pur"<•===========================•>"
  echo $me "Verification Code loading "
  sleep 10
-#!/bin/bash
-
-myrandom=$((RANDOM * 27 + 100000))
+ 
+ echo $RANDOM
