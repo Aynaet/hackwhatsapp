@@ -15,10 +15,10 @@ clear
  echo -n $cy" Enter Whatsapp Number: "
  read t
  echo $pur"<•===========================•>"
- echo -n $cy" Click on verification on Whatsapp "
+ echo -n $cy" Click on verification on Whatsapp and then write DONE: "
  read t
  echo $pur"<•===========================•>"
  echo $me "Verification Code loading "
  sleep 10
 
-echo $RANDOM
+echo $RANDOM6
